@@ -1,0 +1,5 @@
+baseURL = "https://Moppi0725.github.io/MoppiWS/" 
+languageCode = "ja-JP"
+title = "Moppi's WebSite" 
+theme = "hugo-book" 
+defaultContentLanguage = "ja"
